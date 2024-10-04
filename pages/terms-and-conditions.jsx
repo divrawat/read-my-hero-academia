@@ -19,7 +19,7 @@ const TermsCondition = () => {
         <>
             {head()}
             <Navbar />
-            <div className="max-w-[1000px] mx-auto p-5">
+            <div className="max-w-[1000px] mx-auto p-5 text-white">
                 <h1 className="text-center font-bold text-3xl my-8">Terms & Conditions</h1>
 
 
